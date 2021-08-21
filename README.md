@@ -11,7 +11,7 @@
 ## 🔖&nbsp; Sobre
 
 Esse projeto foi criado com o objetivo de aplicar os conceitos de controle de usuário em uma aplicação frontend.
-O backend que será utilizado é <a href="https://github.com/danileao/permissions_users">esse</a>
+O backend que será utilizado é <a href="https://github.com/RodrigoName/NodeJs-BackEnd-User">esse</a>
 
 ---
 
@@ -30,7 +30,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/danileao/permission-frontend.git
+    $ git clone https://github.com/RodrigoName/ReactJs-FrontEnd-User.git
 
     # Entrar no diretório
     $ cd permission-frontend
